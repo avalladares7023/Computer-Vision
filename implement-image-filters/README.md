@@ -1,6 +1,10 @@
 # Implementation of Image Filters
 
-This project is meant to explain and implement the Box, the Sobel Edge Detector, and the Gaussian filters while utilizing two sliding window sizes: 3x3 and 7x7. 
+The main objective for this project is to illustrate the effects image filters can have on an image and how the results will change when using varying sliding window sizes. Specifically, this project is meant to explain and implement the Box, the Sobel Edge Detector, and the Gaussian filters while utilizing two sliding window sizes: 3x3 and 7x7. 
+
+## Report
+
+The **Implementation of Image Filters** PDF is a report meants to discuss the observations made for each filter, the implementation details like the sliding window and convolution, and the testing process.
 
 ## Reference Images
 
